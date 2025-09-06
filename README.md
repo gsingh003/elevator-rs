@@ -8,4 +8,4 @@ Usage:
 1. Clone the repository
 2. Run the project with `cargo run`
 
-The program will start with three elevator threads and a controller. You can modify and add more levators or change the type of requests being made in the `main` function if you wish.
+The program will start with three elevator threads and a controller. You can modify and add more elevators or change the type of requests being made in the `main` function if you wish.
